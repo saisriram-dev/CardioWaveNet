@@ -1,0 +1,11 @@
+wfdb
+PyWavelets
+numpy
+opencv-python
+scikit-learn
+matplotlib
+pandas
+tensorflow
+streamlit
+requests
+python-pptx
